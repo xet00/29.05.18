@@ -1,0 +1,25 @@
+{
+  "name": "29.05.18",
+  "version": "1.0.0",
+  "description": "29's json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xet00/29.05.18.git"
+  },
+  "keywords": [
+    "ananas"
+  ],
+  "author": "xet00",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xet00/29.05.18/issues"
+  },
+  "homepage": "https://github.com/xet00/29.05.18#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
